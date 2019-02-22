@@ -30,3 +30,5 @@ flutter:
         - asset: fonts/Ubuntu-Bold.ttf
 
 
+  assets: 
+    - assests/cats.json
